@@ -11,3 +11,4 @@ TODO:
 - Professional and amateur teams have different probabilities to go through.
 - Controller application to run the simulation game by game. 
 - Goals per time period. 
+- Assign team members to the teams who score the goals
